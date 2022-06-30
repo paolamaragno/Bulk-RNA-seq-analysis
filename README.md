@@ -1,4 +1,4 @@
-# Bulk-RNA-seq analysis
+# Bulk RNA-seq analysis
 
 The aim of the analysis is finding the differentially expressed genes across three different tissues - brain, liver and lung.
 The data are downloaded from GTEx portal and, for each tissue, they consist of lot of samples coming from different individuals. Only three samples per tissue are selected depending on three quality measures - the RIN, the percentage of reads mapping on rRNA and the percentage of paired end reads both uniquely mapping on the genome.
